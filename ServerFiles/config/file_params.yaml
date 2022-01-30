@@ -1,0 +1,4 @@
+---
+virtual_storage_path_obs: "/mnt/pathshare/obstacles/"
+virtual_storage_path_pos: "/mnt/pathshare/positions/"
+virtual_storage_path_traj: "/mnt/pathshare/trajectories/"

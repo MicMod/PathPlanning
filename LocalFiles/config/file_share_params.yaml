@@ -1,0 +1,11 @@
+---
+url: "https://pathplanningstorage.file.core.windows.net/pathshare"
+key: "LARfppN0y8CaVgUI6edckJi3NI52JM1wofW4bMdxNFyaRBEfu0XOgXXzJ4SYzvp2zROd7eAhwqheIQiQNEZ9/Q=="
+connection_string: "DefaultEndpointsProtocol=https;AccountName=pathplanningstorage;AccountKey=LARfppN0y8CaVgUI6edckJi3NI52JM1wofW4bMdxNFyaRBEfu0XOgXXzJ4SYzvp2zROd7eAhwqheIQiQNEZ9/Q==;EndpointSuffix=core.windows.net"
+share_name: "pathshare"
+virtual_storage_path_obs: "obstacles/"
+virtual_storage_path_pos: "positions/"
+virtual_storage_path_traj: "trajectories/"
+local_storage_path_obs: "local_storage/obstacles"
+local_storage_path_pos: "local_storage/positions"
+local_storage_path_traj: "local_storage/trajectories"
